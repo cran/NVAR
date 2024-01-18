@@ -1,0 +1,15 @@
+e4cf725419680d424965fecfeead4dd3 *DESCRIPTION
+a9a757a1105c9f60426f6d4a690e41cb *NAMESPACE
+01c9bd13e4899c9f120d1c60c10470a7 *NEWS.md
+4ba401127fa3678f22993154d1a0d3c2 *R/NVAR.R
+fb3b84dec98cb5578519eb6b6d2445c5 *R/simulation.R
+29678ea9beac5f187db571e46269bf0d *R/undefined_global.R
+b56ff2b193ecba52f9ec7f3b10cca008 *R/utils-pipe.R
+b3b5c6acff3c9804af3eb567deafcff8 *R/utils-polymial-expression.R
+169fdf6351aba84e7fa52523de2d45ad *README.md
+5420fca6d2cfe1430a0bcb929ad2377f *man/NVAR.Rd
+e3462fd5b44ba15ac61d2d930131f9d5 *man/figures/README-example-1.png
+8f4aad003a999fae004ba9361f9a99d6 *man/pipe.Rd
+55df631398bc18f16a0ed92bdfa624c8 *man/sim_NVAR.Rd
+8bf77b69b7a653047ae72d9a414b7d3a *tests/testthat.R
+d6faddcca32b32bad1ade8b0e547ef95 *tests/testthat/test-utils-polymial-expression.R
